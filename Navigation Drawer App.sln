@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigation Drawer App", "Navigation Drawer App.csproj", "{881ECAF8-5897-450A-8B81-F017E2691498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881ECAF8-5897-450A-8B81-F017E2691498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881ECAF8-5897-450A-8B81-F017E2691498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881ECAF8-5897-450A-8B81-F017E2691498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881ECAF8-5897-450A-8B81-F017E2691498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90225E10-DE5A-4284-A95D-014668C60A8C}
+	EndGlobalSection
+EndGlobal
